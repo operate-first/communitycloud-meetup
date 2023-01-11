@@ -2,7 +2,7 @@
 
 [op1.st/meetup](https://op1.st/meetup)
 
-- Sign up for the mailing list](https://op1.st/mailinglist).
+- Sign up for the [mailing list](https://op1.st/mailinglist).
 - Check our community [calendar](https://op1.st/meetup-calendar).
 - Join our meetup every other Tuesday @ 11:00 ET on [google meet](https://op1.st/meetup-gmeet).
 - Introduce yourself on [slack](https://op1.st/slack) in the [#general](https://operatefirst.slack.com/archives/C01RF4SPNDD) or [#data-science channel](https://operatefirst.slack.com/archives/C02KY881CJE).

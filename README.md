@@ -36,11 +36,11 @@ gantt
 ```
 ## S02 Upcoming
 ### Tue 2023-02-21
-#### S02E08 OKD Streams (CentOS Stream CoreOS)
+#### S02E08 OKD Streams (CentOS Stream CoreOS) [link](https://www.okd.io/blog/2022-10-25-OKD-Streams-Building-the-Next-Generation-of-OKD-together/)
 
 ## S02 Held
 ### Tue 2023-02-07
-#### S02E07 Pulp
+#### S02E07 Pulp [link](https://pulpproject.org/)
 ### Tue 2023-01-24
 #### S02E06 AI4CloudOps
 ### Tue 2023-01-10
@@ -48,7 +48,7 @@ gantt
 ### Tue 2022-12-27
 #### No meet up
 ### Tue 2022-12-13
-#### S02E05 apicurio
+#### S02E05 apicurio [link](https://www.apicur.io/)
 ### Tue 2022-11-29
 #### S02E04 The 5th open paradigm
 ### Tue 2022-11-15

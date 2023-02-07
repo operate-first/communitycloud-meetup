@@ -37,11 +37,10 @@ gantt
 ## S02 Upcoming
 ### Tue 2023-02-21
 #### S02E08 OKD Streams (CentOS Stream CoreOS)
-### Tue 2023-02-07
-#### S02E07 Pulp
-
 
 ## S02 Held
+### Tue 2023-02-07
+#### S02E07 Pulp
 ### Tue 2023-01-24
 #### S02E06 AI4CloudOps
 ### Tue 2023-01-10

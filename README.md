@@ -20,7 +20,8 @@ gantt
     todayMarker on
     
     section S02
-    S02E8 OKD Streams       :milestone, S02E07, 2023-02-21, 1h
+    S02E9 Backstage & janus-idp :milestone, S02E09, 2023-03-07, 1h    
+    S02E8 OKD Streams       :milestone, S02E08, 2023-02-21, 1h
     S02E7 Pulp              :milestone, S02E07, 2023-02-07, 1h
     S02E6 AI4CloudOps       :milestone, S02E06, 2023-01-24, 1h
     S02E5 apicurio          :milestone, S02E05, 2022-12-13, 1h
@@ -37,6 +38,8 @@ gantt
 ## S02 Upcoming
 ### Tue 2023-02-21
 #### S02E08 OKD Streams (CentOS Stream CoreOS) [link](https://www.okd.io/blog/2022-10-25-OKD-Streams-Building-the-Next-Generation-of-OKD-together/)
+### Tue 2023-03-07
+#### S02E09 Backstage & janus-idp [link](https://janus-idp.io)
 
 ## S02 Held
 ### Tue 2023-02-07

@@ -1,4 +1,4 @@
-# Operate First Community Cloud bi-weekly meet up
+# Operate First Community Cloud fortnightly meet up
 
 [op1.st/meetup](https://op1.st/meetup)
 
@@ -36,12 +36,12 @@ gantt
     No meet up              :milestone, S02N01, 2022-11-01, 1h
 ```
 ## S02 Upcoming
-### Tue 2023-02-21
-#### S02E08 OKD Streams (CentOS Stream CoreOS) [link](https://www.okd.io/blog/2022-10-25-OKD-Streams-Building-the-Next-Generation-of-OKD-together/)
 ### Tue 2023-03-07
 #### S02E09 Backstage & janus-idp [link](https://janus-idp.io)
 
 ## S02 Held
+### Tue 2023-02-21
+#### S02E08 OKD Streams (CentOS Stream CoreOS) [link](https://www.okd.io/blog/2022-10-25-OKD-Streams-Building-the-Next-Generation-of-OKD-together/)
 ### Tue 2023-02-07
 #### S02E07 Pulp [link](https://pulpproject.org/)
 ### Tue 2023-01-24

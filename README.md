@@ -37,10 +37,12 @@ gantt
     No meet up              :milestone, S02N01, 2022-11-01, 1h
 ```
 ## S02 Upcoming
-### Tue 2023-03-21
-#### S02E09 Backstage & janus-idp [link](https://janus-idp.io)
+### Tue tbd 2023-04-04
+#### S02E10 tbd
 
 ## S02 Held
+### Tue 2023-03-21
+#### S02E09 Backstage & janus-idp [link](https://janus-idp.io)
 ### Tue 2023-03-07
 #### Cancelled (Backstage / Janus)
 ### Tue 2023-02-21

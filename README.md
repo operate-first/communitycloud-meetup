@@ -20,15 +20,16 @@ gantt
     todayMarker on
     
     section S02
-    S02E9 Backstage & janus-idp :milestone, S02E09, 2023-03-21, 1h
-    S02E8 OKD Streams       :milestone, S02E08, 2023-02-21, 1h
-    S02E7 Pulp              :milestone, S02E07, 2023-02-07, 1h
-    S02E6 AI4CloudOps       :milestone, S02E06, 2023-01-24, 1h
-    S02E5 apicurio          :milestone, S02E05, 2022-12-13, 1h
-    S02E4 5th open paradigm :milestone, S02E04, 2022-11-29, 1h
-    S02E3 kruize            :milestone, S02E03, 2022-11-15, 1h
-    S02E2 Backstage         :milestone, S02E02, 2022-10-18, 1h
-    S02E1 jaeger            :milestone, S02E01, 2022-10-04, 1h
+    S02E10 tbd               :milestone, S02E10, 2023-04-04, 1h
+    S02E09 Backstage & janus-idp :milestone, S02E09, 2023-03-21, 1h
+    S02E08 OKD Streams       :milestone, S02E08, 2023-02-21, 1h
+    S02E07 Pulp              :milestone, S02E07, 2023-02-07, 1h
+    S02E06 AI4CloudOps       :milestone, S02E06, 2023-01-24, 1h
+    S02E05 apicurio          :milestone, S02E05, 2022-12-13, 1h
+    S02E04 5th open paradigm :milestone, S02E04, 2022-11-29, 1h
+    S02E03 kruize            :milestone, S02E03, 2022-11-15, 1h
+    S02E02 Backstage         :milestone, S02E02, 2022-10-18, 1h
+    S02E01 jaeger            :milestone, S02E01, 2022-10-04, 1h
     
     section S02 No meet up
     Cancelled Backstage & Janus   :milestone, S02N03, 2023-03-07, 1h

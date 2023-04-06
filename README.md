@@ -20,7 +20,7 @@ gantt
     todayMarker on
     
     section S02
-    S02E10 tbd               :milestone, S02E10, 2023-04-04, 1h
+    S02E10 Season 2 Finale :milestone, S02E10, 2023-04-11, 1h
     S02E09 Backstage & janus-idp :milestone, S02E09, 2023-03-21, 1h
     S02E08 OKD Streams       :milestone, S02E08, 2023-02-21, 1h
     S02E07 Pulp              :milestone, S02E07, 2023-02-07, 1h
@@ -32,16 +32,19 @@ gantt
     S02E01 jaeger            :milestone, S02E01, 2022-10-04, 1h
     
     section S02 No meet up
-    Cancelled Backstage & Janus   :milestone, S02N03, 2023-03-07, 1h
+    No meet up              :milestone, S02N5, 2023-04-04, 1h
+    Cancelled Backstage & Janus   :milestone, S02N04, 2023-03-07, 1h
     Cancelled OKD Streams   :milestone, S02N03, 2023-01-10, 1h
     No meet up              :milestone, S02N02, 2022-12-27, 1h
     No meet up              :milestone, S02N01, 2022-11-01, 1h
 ```
 ## S02 Upcoming
-### Tue tbd 2023-04-04
-#### S02E10 tbd
+### Tue 2023-04-11
+#### S02E10 Season 2 Finale
 
 ## S02 Held
+### Tue 2023-04-04
+#### No meet up
 ### Tue 2023-03-21
 #### S02E09 Backstage & janus-idp [link](https://janus-idp.io)
 ### Tue 2023-03-07
